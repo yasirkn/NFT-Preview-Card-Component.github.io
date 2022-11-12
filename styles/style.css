@@ -55,7 +55,7 @@ body{
     background-color: hsla(178, 100%, 50%, 0.675);
     border-radius: 0.845rem;
     cursor: pointer;
-    background-image: url(/images/icon-view.svg);
+    background-image: url(./images/icon-view.svg);
     background-repeat: no-repeat;
     background-position: center;
     transition: background-color 0.1s ;
